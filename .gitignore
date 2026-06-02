@@ -47,6 +47,7 @@ app.*.map.json
 firebase-debug.log
 firestore-debug.log
 lib/firebase_options.dart
+firebase.json
 
 # Environment variables
 .env
