@@ -1,6 +1,6 @@
 # Gubat Messages
 
-A spam-filtering SMS application built with Flutter. Gubat Messages helps users manage their text messages by automatically filtering out spam while keeping important messages secure with local encryption. To be used with Gubat Server.
+A spam-filtering SMS application built with Flutter. Gubat Messages helps users manage their text messages by automatically filtering out spam while keeping important messages secure with local encryption. To be used with [Gubat Server](https://github.com/doidu/gubat-server).
 
 ## 🌟 Features
 
