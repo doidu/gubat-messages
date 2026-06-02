@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276445026103",
+    "project_id": "gubat-messages",
+    "storage_bucket": "gubat-messages.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276445026103:android:b0f82d30263e42014d6cb2",
+        "android_client_info": {
+          "package_name": "com.gubat.messages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVvZ3b9Bd3heHokhIzQD1XURcRLuqbdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
